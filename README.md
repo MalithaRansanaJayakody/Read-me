@@ -1,92 +1,204 @@
-# [ cite: Ransana Jayakody ]
+# 👋 Hi, I'm Ransana Jayakody
 
-**Founder & CEO @ Arvona Labs | Tech Entrepreneur & IT Infrastructure Specialist**
+### 💻 Software Engineering | Cyber Security | Networking | Data Sccience & AI
 
-A technology entrepreneur focused on bridging the gap between scalable digital solutions and robust hardware infrastructure. I specialize in overseeing technical operations, managing advanced cybersecurity protocols, and leading innovative projects through modern architectural frameworks.
+<p>
+<a href="https://www.linkedin.com/in/ransana-jayakody-4940b230a/">
+<img src="https://img.shields.io/badge/LinkedIn-Ransana%20Jayakody-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/MalithaRansanaJayakody">
+<img src="https://img.shields.io/badge/GitHub-MalithaRansanaJayakody-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+</p>
+
+</div>
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- 1. Left Column (Professional Details) -->
-    <td width="50%" valign="top">
-      <h3>Key Skills</h3>
-      <ul>
-        <li>&#10148; Scalable Full-Stack Development (PHP, JS)</li>
-        <li>&#10148; Advanced Cybersecurity & Zero-Trust Architecture</li>
-        <li>&#10148; Cloud Technologies & AI Infrastructure</li>
-        <li>&#10148; Hardware Engineering & PC Builds</li>
-        <li>&#10148; Strategic Technical Operations & Business Management</li>
-      </ul>
+## 👨‍💻 About Me
 
-      <h3>Academic Qualifications</h3>
-      <ul>
-        <li>&#10148; <b>MSc in Data Science and Artificial Intelligence</b> — <i>University of Law, Leeds (Prospective Candidate)</i></li>
-        <li>&#10148; <b>BSc (Hons) in Computer Networks & Security (Wrexham University)</b> — <i>Completed</i></li>
-        <li>&#10148; <b>BSc in Software Engineering</b> — <i>Undergraduate</i></li>
-        <li>&#10148; <b>Diploma in Cyber Security (ABE - UK)</b> — <i>Completed</i></li>
-        <li>&#10148; <b>Computer Hardware Technician (NVQ Level 3)</b> — <i>Completed</i></li>
-      </ul>
+I am a **Software Engineering undergraduate** with a strong interest in software development, cybersecurity, computer networking, databases, cloud technologies, and emerging Data & AI technologies.
 
-      <h3>Professional Experience</h3>
-      <ul>
-        <li>&#10148; <b>Founder & CEO @ Arvona Labs</b></li>
-        <li>&#10148; <b>Proprietor @ RJ Computer Solutions</b></li>
-      </ul>
+I enjoy building practical technology solutions and turning ideas into useful real-world applications. My academic journey combines **software engineering, computer network & security, cybersecurity, and Data & AI**, while my practical work focuses on software development and business technology solutions.
 
-      <h3>Professional Certifications</h3>
-      <ul>
-        <li>&#10148; Oracle | Cloud AI Foundations Associate</li>
-        <li>&#10148; NVIDIA | AI Infrastructure Fundamentals</li>
-        <li>&#10148; Cisco | Networking & Cybersecurity</li>
-      </ul>
-      <br>
-      <h3>Connect with me</h3>
-      <p>
-        <a href="---CONNECT_LINKEDIN_REPLACE---"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="---CONNECT_PORTFOLIO_REPLACE---"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-        <a href="---CONNECT_WEBSITE_REPLACE---"><img src="https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-      </p>
-    </td>
-
-    <!-- 2. Right Column (GitHub Statistics Widgets) -->
-    <td width="50%" valign="top">
-      <!-- Ransana's GitHub General Stats -->
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MalithaRansanaJayakody&show_icons=true&theme=default" width="100%" />
-      </p>
-      <!-- Ransana's Most Used Languages -->
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalithaRansanaJayakody&layout=compact&theme=default&langs_count=6" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+🚀 **Founder & CEO — Arvona Labs**  
+💻 Software Engineering & Full-Stack Development  
+🔐 Cybersecurity & Computer Networking  
+🗄️ Database & Business Application Development  
+🤖 Data Science & Artificial Intelligence
 
 ---
 
-### Languages and Tools
+## 🎓 Academic Qualifications
+
+### 🎓 MSc Data Science and Artificial Intelligence
+**University of Law — Leeds, UK**  
+🔵 **Reading / Preparing for MSc**
+
+Currently reading towards postgraduate study in **Data Science and Artificial Intelligence**, with interests in intelligent systems, data-driven technologies, machine learning and modern AI applications.
+
+### 🎓 BSc (Hons) Computer Network & Security
+**Wrexham University — UK**  
+🟢 **Graduated**
+
+Successfully completed the BSc (Hons) Computer Network & Security degree, with academic focus on computer networks, cybersecurity, network infrastructure, security technologies and information systems.
+
+### 🛡️ Diploma in Cyber Security
+**ABE — UK | LondonTec**  
+🟢 **Successfully Completed**
+
+Successfully completed the **Diploma in Cyber Security — ABE, UK** through LondonTec.
+
+**Entry pathway:**  
+`HND Cyber Security — 1st Year Completed Students`  
+`BSc Networks — Completed Students`
+
+### 💻 BSc (Hons) Software Engineering
+**Java Institute for Advanced Technology**  
+🔵 **Undergraduate**
+
+Currently studying BSc (Hons) Software Engineering, developing practical and academic knowledge in programming, web development, databases, software engineering and application development.
+
+---
+
+## 🏆 Certifications & Professional Learning
+
+- 🧠 **AI Infrastructure and Operations Fundamentals** — NVIDIA
+- 🛡️ **Foundations of Cybersecurity** — Google
+- 🌐 **Cyber Threat Management** — Cisco Networking Academy
+- 🌐 **Networking Basics** — Cisco Networking Academy
+- ☁️ **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Oracle
+- 🔐 **Introduction to Cyber Security** — Cisco Networking Academy
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco-127BC4?style=flat&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_AI-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud_AI-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" alt="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" alt="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" alt="C#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="55" alt="PHP">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="55" alt="Kotlin">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="55" alt="Swift">
 </p>
 
-<br>
-<br>
+### 🌐 Frontend & Web
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalithaRansanaJayakody&layout=small_with_rank&show_icons=true&theme=default&icon_color=0077B5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" alt="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" alt="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" alt="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="55" alt="Angular">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="55" alt="Bootstrap">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" alt="Tailwind CSS">
 </p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="55" alt="Spring">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55" alt="Django">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="55" alt="Laravel">
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" alt="MySQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="55" alt="MariaDB">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="55" alt="Oracle">
+</p>
+
+### ☁️ Cloud, DevOps & Systems
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75" alt="AWS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="55" alt="Firebase">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="55" alt="Kubernetes">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" alt="Linux">
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" alt="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" alt="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" alt="VS Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" alt="Figma">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="55" alt="Arduino">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="55" alt="Android">
+</p>
+
+---
+
+## 💻 Development
+
+> **I build practical, end-to-end digital solutions with a focus on clean interfaces, reliable backend systems, structured databases and scalable technology. My development work combines software engineering principles with real-world business requirements, while my academic journey continues to strengthen my knowledge in cybersecurity, networking, cloud technologies and Data & AI.**
+
+| Area | Technologies |
+|---|---|
+| 🌐 **Frontend** | HTML5 • CSS3 • JavaScript • React • Angular • Bootstrap • Tailwind CSS |
+| ⚙️ **Backend** | Java • PHP • Python • Django • Spring • Laravel |
+| 📱 **Mobile** | Android • Kotlin • React Native |
+| 🗄️ **Databases** | MySQL • MariaDB • MongoDB • PostgreSQL • Oracle |
+| ☁️ **Cloud / DevOps** | AWS • Firebase • Kubernetes • Linux |
+| 💻 **Programming** | C • C++ • C# • Java • JavaScript • Kotlin • PHP • Python • Swift |
+| 🎨 **Design** | Figma |
+| 🧰 **Tools** | Git • GitHub • VS Code • Arduino |
+
+---
+
+## 🚀 What I Work On
+
+- 🌐 Web-based software solutions
+- 🧾 POS and business management systems
+- 🎓 Learning Management Systems (LMS)
+- 🏨 Hotel and booking systems
+- 🖥️ Custom business applications
+- 🎨 Landing pages and digital design
+- 🌐 Networking and IT solutions
+- 🔐 Cybersecurity and secure-system projects
+- 🤖 Data, AI and automation-related projects
+
+---
+
+## 🏢 Arvona Labs
+
+### 🚀 Founder & CEO
+
+**Arvona Labs** focuses on creating practical technology solutions for businesses and organizations.
+
+💻 Software Development  
+🌐 Web Applications  
+🧾 POS Systems  
+🎓 LMS Platforms  
+🏢 Business Automation  
+🌐 Networking & IT Solutions  
+🎨 UI / Graphic / Digital Design
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ransana-jayakody-4940b230a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/MalithaRansanaJayakody">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+<div align="center">
+
+### 💙 Building • Learning • Creating • Innovating
+
+</div>
