@@ -33,4 +33,4 @@ A technology entrepreneur focused on bridging the gap between scalable digital s
 
 ---
 
-📫 **Let's Connect:** [ඔයාගේ LinkedIn ලින්ක් එක මෙතන දාන්න]
+📫 **Let's Connect:** [https://www.linkedin.com/in/ransana-jayakody-4940b230a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
