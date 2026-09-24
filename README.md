@@ -11,7 +11,7 @@ A technology entrepreneur focused on bridging the gap between scalable digital s
 ### 🎓 Academic Qualifications
 * **MSc in Data Science and Artificial Intelligence** - (Prospective Candidate)
 * **BSc (Hons) in Computer Networks & Security** - Completed
-* **BSc in Software Engineering** - Undergraduate
+* **BSc (Hons) in Software Engineering** - Undergraduate
 * **Diploma in Cyber Security (ABE - UK)** - Completed
 * **NVQ Level 3 Computer Hardware Technician** - Completed
 
